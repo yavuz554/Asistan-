@@ -10,3 +10,4 @@ Oku(değer)
 EGER değer>=50 YAZ "kritik eşik"
   DEĞİLSE YAZ "DURUM NORMAL"
   DUR
+KAYNAKÇA 9.Sınıf Programlama Temelleri Ders Kitabı
