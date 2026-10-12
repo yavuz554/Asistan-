@@ -1,5 +1,5 @@
 proje yazarı: yavuz
-#proje adı: asista-
+#proje adı: asistan-
 ##projenin amacı:kullanıcılara günlük işlerinde(hesaplama,selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak
 ##proje hedefleri:
 * V1.0 Akıllı menü
