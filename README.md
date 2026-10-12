@@ -7,7 +7,7 @@ proje yazarı: yavuz
 #proje kapsamı:kritik eşik
 Başla
 Oku(değer)
-EGER değer>=50 İSE YAZ "kritik eşik"
+EGER değer>=50 ise YAZ "kritik eşik"
   DEĞİLSE YAZ "DURUM NORMAL"
   DUR
 KAYNAKÇA 9.Sınıf Programlama Temelleri Ders Kitabı
